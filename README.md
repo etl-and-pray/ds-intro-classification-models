@@ -41,5 +41,3 @@ Python · Pandas · Scikit-learn (`DecisionTreeClassifier`, `RandomForestClassif
 
 - `практическая работа 22.9.ipynb` — ноутбук с кодом и результатами.
 - Датасеты `vehicles_dataset_prepared.csv` и `vehicles_dataset_old.csv` нужны для запуска. В ноутбуке они загружаются через `files.upload()` в Colab.
-3. В Colab ячейки с `files.upload()` работают как есть. Локально их можно удалить и читать файлы через `pd.read_csv(...)`.
-4. Выполняйте ячейки по порядку.
